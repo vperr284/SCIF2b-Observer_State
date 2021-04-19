@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/perri/CLionProjects/TP_State/Capteur.h
+Moniteur.h
+C:/Users/perri/CLionProjects/TP_State/Moniteur.h
+list
+-
+
+C:/Users/perri/CLionProjects/TP_State/Moniteur.h
+list
+-
+iostream
+-
+map
+-
+Capteur.h
+C:/Users/perri/CLionProjects/TP_State/Capteur.h
+State.h
+C:/Users/perri/CLionProjects/TP_State/State.h
+string
+-
+
+C:/Users/perri/CLionProjects/TP_State/State.h
+Capteur.h
+C:/Users/perri/CLionProjects/TP_State/Capteur.h
+Moniteur.h
+C:/Users/perri/CLionProjects/TP_State/Moniteur.h
+
+C:/Users/perri/CLionProjects/TP_State/StateNormal.cpp
+cfloat
+-
+StateNormal.h
+C:/Users/perri/CLionProjects/TP_State/StateNormal.h
+
+C:/Users/perri/CLionProjects/TP_State/StateNormal.h
+Moniteur.h
+C:/Users/perri/CLionProjects/TP_State/Moniteur.h
+

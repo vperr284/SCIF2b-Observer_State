@@ -1,0 +1,3 @@
+C:/Users/perri/CLionProjects/TP_State/cmake-build-debug/CMakeFiles/TP_State.dir
+C:/Users/perri/CLionProjects/TP_State/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/perri/CLionProjects/TP_State/cmake-build-debug/CMakeFiles/rebuild_cache.dir

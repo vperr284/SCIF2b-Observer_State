@@ -1,0 +1,21 @@
+Capteur with anomaly Capteur temp Value of the sensors  : 78
+remove of sensor in the monitor
+ Go to anomaly
+Capteur with anomaly Capteur humidite Value of the sensors  : 123
+remove of sensor in the monitor
+ Go to Failure
+-------------------log-----------------
+Number of keep alive sensors : 0
+-------------------capteur : Capteur humidite--------------------
+123
+0
+15
+10
+0
+29
+20
+15
+-------------------capteur : Capteur temp--------------------
+78
+15
+10
